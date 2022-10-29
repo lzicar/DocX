@@ -5,5 +5,8 @@
         <page name='Conditionals and Optionals'/>
         <page name='Range Operators and Loops'/>
         <page name='Collection Types'/>
+        <page name='Functions and Closures'/>
+        <page name='Classes, Structures and Enumerations'/>
+        <page name='Protocols, Extensions and Error Handling'/>
     </pages>
 </playground>
