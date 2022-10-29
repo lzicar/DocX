@@ -7,7 +7,6 @@ var greeting = "Hello, playground"
 //: [Next](@next)
 
 
-import UIKit
 
 let myRange = 10...20
 let myRange2 = 10..<20
