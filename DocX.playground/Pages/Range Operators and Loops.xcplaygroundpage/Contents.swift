@@ -25,7 +25,7 @@ while y < 50 {
     y += 5
     print("y is \(y)")
 }
-// pokus
+
 var x = 100
 repeat {
     x += 5
