@@ -3,5 +3,6 @@
     <pages>
         <page name='Simple Values and Types'/>
         <page name='Conditionals and Optionals'/>
+        <page name='Range Operators and Loops'/>
     </pages>
 </playground>
