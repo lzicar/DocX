@@ -32,7 +32,8 @@ for shoppingListItem in shoppingList[1...] {
     print(shoppingListItem)
 }
 
-var contactList = ["Shah": "+60123456789", "Aamir": "+0223456789"]
+var contactList =
+  ["Shah": "+60123456789", "Aamir": "+0223456789"]
 
 contactList.count
 contactList.isEmpty
@@ -81,7 +82,8 @@ movieGenres.subtracting(movieGenres2)
 movieGenres.symmetricDifference(movieGenres2)
 
 let movieGenresSubset: Set = ["Horror", "Romantic Comedy"]
-let movieGenresSuperset: Set = ["Horror", "Romantic Comedy", "War", "Science Fiction", "Fantasy"]
+let movieGenresSuperset: Set =
+  ["Horror", "Romantic Comedy", "War", "Science Fiction", "Fantasy"]
 let movieGenresDisjoint: Set = ["Bollywood"]
 movieGenres == movieGenres2
 movieGenresSubset.isSubset(of: movieGenres)

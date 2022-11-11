@@ -66,7 +66,7 @@ aa -= 1
 (1 != 1) || (2 != 2)
 !(1 == 1)
 
-let greeting = "Good" + " Morning"
+let greeeting = "Good" + " Morning"
 
 let rating = 3.5
 var ratingResult = "The restaurant rating is " + String(rating)
